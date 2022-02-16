@@ -41,6 +41,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 ---
-<p align="center"><a> <span style="color: green"> Created by vince </span></a></p>
+<span style="color: green"><a> Created by vince </a></span>
 
 
