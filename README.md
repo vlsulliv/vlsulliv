@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?text=capsule_render&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?text=capsule_render&animation=fadeIn&animation=fadeIn)
 
 fadeIn : fadeIn 1.2s
 scaleIn : scaleIn .8s
