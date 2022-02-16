@@ -41,6 +41,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 ---
-
-<p align="center"><a> Made with ❤️ By: Vince of 🐢 turtle gang development </a></p>
+<p align="center"><a> Created by vince </a></p>
 
