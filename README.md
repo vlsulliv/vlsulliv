@@ -12,14 +12,12 @@
  
 ### Hi there 👋
 
-```diff
-+ Green
-- Red
-! Orange
-@@ Pink @@
-# Gray
-...
-```
++ C +
+- O -
+! L !
+@@ O @@
+# R #
+S
 
 <!--
 **vlsulliv/vlsulliv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
