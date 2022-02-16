@@ -1,5 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?text=capsule_render&animation=fadeIn)
 
+fadeIn : fadeIn 1.2s
+scaleIn : scaleIn .8s
+blink : blink .6s
+blinking : blinking 1.6s
+twinkling : twinkling 4s
 
 ### Hi there 👋
 
