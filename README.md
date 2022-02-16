@@ -57,3 +57,4 @@ Here are some ideas to get you started:
    // code for coloring
 ```
 
+<span style="color: green"> Some green text </span>
