@@ -44,3 +44,16 @@ Here are some ideas to get you started:
   // <span style="color: green; align: center"><a> Created by vince </a></span>
 
 
+```json
+   // code for coloring
+```
+```html
+   // code for coloring
+```
+```js
+   // code for coloring
+```
+```css
+   // code for coloring
+```
+
