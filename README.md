@@ -40,31 +40,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<div class="input-group">
-    <input type="text" class="form-control" placeholder="Search...">
-    <span class="input-group-btn">
-        <button class="btn btn-default" type="button" aria-label="Search">
-            <i class="mdi mdi-magnify" aria-hidden="true"></i>
-        </button>
-    </span>
-</div>
-
-
 ---
-  // <span style="color: green; align: center"><a> Created by vince </a></span>
+<span style="color: green; align: center"><a> Created by vince </a></span>
 
+<h3 style="color:#ff0000">Danger</h3>
 
-```json
-   // code for coloring
-```
-```html
-   // code for coloring
-```
-```js
-   // code for coloring
-```
-```css
-   // code for coloring
-```
 
 <span style="color: green"> Some green text </span>
