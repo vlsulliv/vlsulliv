@@ -9,8 +9,16 @@
   </a>
 </p>
  -->
+ 
 ### Hi there 👋
 
+```diff
++ Green
+- Red
+! Orange
+@@ Pink @@
+# Gray
+...
 
 
 <!--
