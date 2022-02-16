@@ -40,6 +40,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+<div class="input-group">
+    <input type="text" class="form-control" placeholder="Search...">
+    <span class="input-group-btn">
+        <button class="btn btn-default" type="button" aria-label="Search">
+            <i class="mdi mdi-magnify" aria-hidden="true"></i>
+        </button>
+    </span>
+</div>
+
+
 ---
   // <span style="color: green; align: center"><a> Created by vince </a></span>
 
