@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 ---
-```json
-<p align="center"><a> Created by vince </a></p>
+```json 
+  // <p align="center"><a> Created by vince </a></p>
 ```
 
