@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Vincent%20Sullivan&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20Profile%20&descAlignY=51&descAlign=62)
-<p align='center'>![Indeed](https://img.shields.io/badge/indeed-003A9B?style=for-the-badge&logo=indeed&logoColor=white)</p>
+![Indeed](https://img.shields.io/badge/indeed-003A9B?style=for-the-badge&logo=indeed&logoColor=white)
+<p align='center'></p>
 <p align='left'> Hi! I'm Vincent Sullivan </p>
 <p align='left'>
   <a href="">
