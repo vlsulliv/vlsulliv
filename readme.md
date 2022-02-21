@@ -2,12 +2,13 @@
 <div align="center">
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Vincent%20Sullivan&fontSize=90&animation=fadeIn&fontAlignY=38&desc=@vlsulliv%20on%20GitHub%20&descAlignY=56&descAlign=67"> 
+
+ </p>
+  
 ![GitHub stars](https://img.shields.io/github/stars/USER/REPOSITORY?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/USER/REPOSITORY?style=social)
 ![GitHub watchers](https://img.shields.io/github/watchers/USER/REPOSITORY?style=social)
 ![GitHub followers](https://img.shields.io/github/followers/USER?style=social)
- </p>
-
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=18&duration=6500&center=true&lines=Plan+1st%2C+Collaborate+2nd%2C+Code+3rd"></a>
