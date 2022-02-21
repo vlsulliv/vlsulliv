@@ -1,7 +1,7 @@
 # **HI THERE!** WELCOME TO MY GITHUB PROFILE👋
 <div align="center">
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Vincent%20Sullivan&fontSize=90&animation=fadeIn&fontAlignY=28&desc=@vlsulliv%20on%20GitHub%20&descAlignY=56&descAlign=57"> 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Vincent%20Sullivan&fontSize=90&animation=fadeIn&fontAlignY=28&desc=@vlsulliv%20on%20GitHub%20&descAlignY=56&descAlign=77"> 
  </p>
   
  ---
