@@ -1,4 +1,4 @@
-**vlsulliv/vlsulliv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# **Vincent Sullivan** (@vlsulliv) on GitHub
 <br />
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Vincent%20Sullivan&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20Profile%20&descAlignY=51&descAlign=62)
