@@ -6,12 +6,10 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=whiteg" alt="Logo" width="80" height="80">
   </a>
   
- <br />
-<div align="center">
   <a href="https://my.indeed.com/resume?hl=en&co=US&from=gnav-homepage&_ga=2.126337807.304248500.1645407352-1224175466.1645288601">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" align="center"/>
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-
+</div>
 
 
                                                                                               
