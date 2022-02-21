@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Vincent%20Sullivan&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20Profile%20&descAlignY=51&descAlign=62)
 
-&nbsp;&nbsp;&nbsp;&nbsp;
+
 <a href="https://my.indeed.com/resume?hl=en&co=US&from=gnav-homepage&_ga=2.149054261.226970598.1645401802-1224175466.1645288601">
-    <img src="https://img.shields.io/badge/indeed-003A9B?style=for-the-badge&logo=indeed&logoColor=white" />
+    <img src="https://img.shields.io/badge/indeed-003A9B?style=for-the-badge&logo=indeed&logoColor=white" align="center"/>
   </a>&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/vlsullivan/">
