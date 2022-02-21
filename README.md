@@ -1,9 +1,15 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Vincent%20Sullivan&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20Profile%20&descAlignY=51&descAlign=62)
 
-<p align=”center”>
+<br />
+<div align="center">
+  <a href="https://www.linkedin.com/in/vlsullivan/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=whiteg" alt="Logo" width="80" height="80">
+  </a>
+    
+<!-- <p align=”center”>
 <a href="https://www.linkedin.com/in/vlsullivan/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" align="center"/>
-  </a>&nbsp;&nbsp;
+  </a>&nbsp;&nbsp; -->
 <!-- </p>
 
 <p align=”center”> -->
