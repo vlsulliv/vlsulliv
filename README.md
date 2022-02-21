@@ -55,6 +55,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+
+<link href='//cdn.jsdelivr.net/npm/devicons@1.8.0/css/devicons.min.css' rel='stylesheet'>
+<span class="devicons devicons-bing_small">
 ---
 <span style="color: green; align: center"><a> Created by vince </a></span>
 
