@@ -3,7 +3,9 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Vincent%20Sullivan&fontSize=90&animation=fadeIn&fontAlignY=38&desc=@vlsulliv%20on%20GitHub%20&descAlignY=56&descAlign=67"> 
  </p>
-                                                                                                                               
+  
+ ---
+  
   <a href="https://www.linkedin.com/in/vlsullivan/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=whiteg" alt="Logo">
   </a>
