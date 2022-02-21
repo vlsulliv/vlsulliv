@@ -1,11 +1,10 @@
 # **HI THERE!** WELCOME TO MY GITHUB PROFILE👋
-<br />
-
+<div align="center">
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Vincent%20Sullivan&fontSize=90&animation=fadeIn&fontAlignY=38&desc=@vlsulliv%20on%20GitHub%20&descAlignY=51&descAlign=62"> 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Vincent%20Sullivan&fontSize=90&animation=fadeIn&fontAlignY=38&desc=@vlsulliv%20on%20GitHub%20&descAlignY=56&descAlign=67"> 
 </p>
 
-<div align="center">
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=18&duration=6500&center=true&lines=Plan+1st%2C+Collaborate+2nd%2C+Code+3rd"></a>
 </p>
