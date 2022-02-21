@@ -5,10 +5,10 @@
 
  </p>
   
-![GitHub stars](https://img.shields.io/github/stars/USER/REPOSITORY?style=social)
-![GitHub forks](https://img.shields.io/github/forks/USER/REPOSITORY?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/USER/REPOSITORY?style=social)
-![GitHub followers](https://img.shields.io/github/followers/USER?style=social)
+![GitHub stars](https://img.shields.io/github/stars/vlsulliv/REPOSITORY?style=social)
+![GitHub forks](https://img.shields.io/github/forks/vlsulliv/REPOSITORY?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/vlsulliv/REPOSITORY?style=social)
+![GitHub followers](https://img.shields.io/github/followers/vlsulliv?style=social)
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=18&duration=6500&center=true&lines=Plan+1st%2C+Collaborate+2nd%2C+Code+3rd"></a>
