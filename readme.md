@@ -1,25 +1,19 @@
-# HI THERE! WELCOME TO MY GITHUB PROFILE👋
+# Hi there! Welcome to my GitHub Workspace👋
 <br />
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Vincent%20Sullivan&fontSize=90&animation=fadeIn&fontAlignY=38&desc=@vlsulliv%20on%20GitHub%20&descAlignY=51&descAlign=62)
 <!-- <p align='center'> Welcome to my workspace </p> -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&lines=Plan+1st%2C+Collaborate+2nd%2C+Code+3rd.)](https://git.io/typing-svg)
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&lines=Plan+1st%2C+Collaborate+2nd%2C+Code+3rd"></a>
-</p>
-
-
-<br />
 <div align="center">
   <a href="https://www.linkedin.com/in/vlsullivan/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=whiteg" alt="Logo">
   </a>
-  
   <a href="https://my.indeed.com/resume?hl=en&co=US&from=gnav-homepage&_ga=2.126337807.304248500.1645407352-1224175466.1645288601">
     <img src="https://img.shields.io/badge/indeed-003A9B?style=for-the-badge&logo=indeed&logoColor=white" />
   </a>
 </div>
-                                                                                          
+:octocat:                                                                                     
 
 Here are some ideas to get you started:
 
