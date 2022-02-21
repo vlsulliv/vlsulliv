@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 ---
-Created by vince
+
 
 <!-- 
 ![GitHub stars](https://img.shields.io/github/stars/USER/REPOSITORY?style=social)
