@@ -56,8 +56,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-<link href='//cdn.jsdelivr.net/npm/devicons@1.8.0/css/devicons.min.css' rel='stylesheet'>
-<span class="devicons devicons-html5_3d_effects"></span>
+<a img src="https://vorillaz.github.io/devicons/!SVG/html5_3d_effects.svg"></a>
 ---
 <span style="color: green; align: center"><a> Created by vince </a></span>
 
