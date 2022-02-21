@@ -2,13 +2,15 @@
 <div align="center">
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Vincent%20Sullivan&fontSize=90&animation=fadeIn&fontAlignY=38&desc=@vlsulliv%20on%20GitHub%20&descAlignY=56&descAlign=67"> 
-
  </p>
   
-![GitHub stars](https://img.shields.io/github/stars/vlsulliv/REPOSITORY?style=social)
-![GitHub forks](https://img.shields.io/github/forks/vlsulliv/REPOSITORY?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/vlsulliv/REPOSITORY?style=social)
-![GitHub followers](https://img.shields.io/github/followers/vlsulliv?style=social)
+ <span class="badge-buymeacoffee">
+<a href="https://ko-fi.com/USER" title="Donate to this project using Buy Me A Coffee"><img src="https://img.shields.io/badge/buy%20me%20a%20coffee-donate-yellow.svg" alt="Buy Me A Coffee donate button" /></a>
+</span>
+<span class="badge-patreon">
+<a href="https://patreon.com/USER" title="Donate to this project using Patreon"><img src="https://img.shields.io/badge/patreon-donate-yellow.svg" alt="Patreon donate button" /></a>
+</span>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=18&duration=6500&center=true&lines=Plan+1st%2C+Collaborate+2nd%2C+Code+3rd"></a>
