@@ -57,7 +57,7 @@ Here are some ideas to get you started:
 
 
 <link href='//cdn.jsdelivr.net/npm/devicons@1.8.0/css/devicons.min.css' rel='stylesheet'>
-<span class="devicons devicons-bing_small">
+<span class="devicons devicons-html5_3d_effects"></span>
 ---
 <span style="color: green; align: center"><a> Created by vince </a></span>
 
