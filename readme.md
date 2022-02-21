@@ -4,7 +4,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Vincent%20Sullivan&fontSize=90&animation=fadeIn&fontAlignY=38&desc=@vlsulliv%20on%20GitHub%20&descAlignY=51&descAlign=62)
 <!-- <p align='center'> Welcome to my workspace </p> -->
 
+<br />
+  <div align="center">
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Plan+1st%2C+Collaborate+2nd%2C+Code+3rd.)](https://git.io/typing-svg)
+</div>
 
 <br />
 <div align="center">
