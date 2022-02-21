@@ -56,7 +56,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 <img src="https://vorillaz.github.io/devicons/!SVG/html5_3d_effects.svg" />
-<a img src="https://vorillaz.github.io/devicons/!SVG/html5_3d_effects.svg"></a>
+<img src="https://vorillaz.github.io/devicons/!SVG/github_alt.svg">
 ---
 <span style="color: green; align: center"><a> Created by vince </a></span>
 
