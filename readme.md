@@ -3,9 +3,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Vincent%20Sullivan&fontSize=90&animation=fadeIn&fontAlignY=38&desc=@vlsulliv%20on%20GitHub%20&descAlignY=56&descAlign=67"> 
  </p>
-  <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=18&duration=6500&center=true&lines=Plan+1st%2C+Collaborate+2nd%2C+Code+3rd"></a>
-</p>
                                                                                                                                
   <a href="https://www.linkedin.com/in/vlsullivan/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=whiteg" alt="Logo">
@@ -22,7 +19,9 @@
 <a href="https://patreon.com/USER" title="Donate to this project using Patreon"><img src="https://img.shields.io/badge/patreon-donate-yellow.svg" alt="Patreon donate button" /></a>
 </span>
 
-
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=18&duration=6500&center=true&lines=Plan+1st%2C+Collaborate+2nd%2C+Code+3rd"></a>
+</p>
 
                                                                                    
 
