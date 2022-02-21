@@ -2,7 +2,7 @@
 <br />
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Vincent%20Sullivan&fontSize=90&animation=fadeIn&fontAlignY=38&desc=@vlsulliv%20on%20GitHub%20&descAlignY=41&descAlign=62">  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Vincent%20Sullivan&fontSize=90&animation=fadeIn&fontAlignY=38&desc=@vlsulliv%20on%20GitHub%20&descAlignY=51&descAlign=62">  </a>
 </p>
 
 <p align="center">
