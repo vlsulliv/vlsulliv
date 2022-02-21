@@ -2,7 +2,7 @@
 
 <div>
 <a href="https://my.indeed.com/resume?hl=en&co=US&from=gnav-homepage&_ga=2.149054261.226970598.1645401802-1224175466.1645288601">
-    <img src="https://img.shields.io/badge/indeed-003A9B?style=for-the-badge&logo=indeed&logoColor=white"  text-align="center"/>
+    <img src="https://img.shields.io/badge/indeed-003A9B?style=for-the-badge&logo=indeed&logoColor=white"  style="text-align: center"/>
   </a>&nbsp;&nbsp;
 
 <a href="https://www.linkedin.com/in/vlsullivan/">
