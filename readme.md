@@ -55,7 +55,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-
+<img src="https://vorillaz.github.io/devicons/!SVG/html5_3d_effects.svg" />
 <a img src="https://vorillaz.github.io/devicons/!SVG/html5_3d_effects.svg"></a>
 ---
 <span style="color: green; align: center"><a> Created by vince </a></span>
