@@ -1,3 +1,6 @@
+**vlsulliv/vlsulliv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br />
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Vincent%20Sullivan&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Web%20Developer%20Profile%20&descAlignY=51&descAlign=62)
 
 <br />
@@ -10,39 +13,8 @@
     <img src="https://img.shields.io/badge/indeed-003A9B?style=for-the-badge&logo=indeed&logoColor=white" />
   </a>
 </div>
-
-
-                                                                                              
-<p align='center'></p>
-<p align='left'> Hi! I'm Vincent Sullivan </p>
-<p align='left'>
-  <a href="">
-    <img src=""/>
-  </a>
-  <a href="">
-    <img src=""/>
-  </a>
-</p>
-
- 
+                                                                                          
 ### Hi there 👋
-
-
-```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
-
-
-<span style="color: green"> Some green text </span>
-
-<span style="color:orange;">Word up</span>
-
-
-**vlsulliv/vlsulliv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -55,6 +27,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+---
+Created by vince
+
+<!-- 
 ![GitHub stars](https://img.shields.io/github/stars/USER/REPOSITORY?style=social)
 ![GitHub forks](https://img.shields.io/github/forks/USER/REPOSITORY?style=social)
 ![GitHub watchers](https://img.shields.io/github/watchers/USER/REPOSITORY?style=social)
@@ -79,10 +55,4 @@ Here are some ideas to get you started:
 <a href="https://medium.com/USER"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> 
 <a href="https://dev.to/USER"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a>
 <a href="https://YouTube.com/USER"><img src="https://img.shields.io/badge/-YouTube-red?&style=for-the-badge&logo=youtube&logoColor=white" height=25></a>
-</p>
-
-<img src="https://vorillaz.github.io/devicons/!SVG/html5_3d_effects.svg" />
-<img src="https://vorillaz.github.io/devicons/!SVG/github_alt.svg">
-
----
-<a> Created by vince </a></span>
+</p> -->
