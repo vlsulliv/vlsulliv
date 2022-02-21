@@ -1,11 +1,12 @@
-# Hi there! Welcome to my GitHub Workspace👋
+# HI THERE! WELCOME TO MY GITHUB PROFILE👋
 <br />
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Vincent%20Sullivan&fontSize=90&animation=fadeIn&fontAlignY=38&desc=@vlsulliv%20on%20GitHub%20&descAlignY=51&descAlign=62)
-<!-- <p align='center'> Welcome to my workspace </p> -->
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&lines=Plan+1st%2C+Collaborate+2nd%2C+Code+3rd""></a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Vincent%20Sullivan&fontSize=90&animation=fadeIn&fontAlignY=38&desc=@vlsulliv%20on%20GitHub%20&descAlignY=51&descAlign=62"></a>
+</p>
+<!-- <p align='center'> Welcome to my workspace </p> -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&lines=Plan+1st%2C+Collaborate+2nd%2C+Code+3rd"></a>
 </p>
                                                                                                                                
 <div align="center">
@@ -16,7 +17,7 @@
     <img src="https://img.shields.io/badge/indeed-003A9B?style=for-the-badge&logo=indeed&logoColor=white" />
   </a>
 </div>
-:octocat:                                                                                     
+                                                                                   
 
 Here are some ideas to get you started:
 
