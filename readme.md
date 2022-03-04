@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on anything!
 - 🤔 I’m looking for help with career direction in tech.
 - 💬 Ask me about netflix!
-- 📫 How to reach me: vlsulliv@yahoo.com - let create something!
+- 📫 How to reach me: vlsulliv@yahoo.com - let's create something!
 ---
 
 
