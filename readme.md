@@ -67,6 +67,4 @@ Here are some ideas to get you started:
 
 
 
-        - [📱 Mobile Frameworks](#-mobile-frameworks-)
-        - [👨‍💻 Office](#-office-)
-        - [⚙️ ORM ](#orm)
+![📱]({[📱 Mobile Frameworks](#-mobile-frameworks-)})
