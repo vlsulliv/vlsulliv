@@ -67,4 +67,6 @@ Here are some ideas to get you started:
 
 
 
-![ORM]({https://github.com/alexandresanlim/Badges4-README.md-Profile#orm})
+        - [📱 Mobile Frameworks](#-mobile-frameworks-)
+        - [👨‍💻 Office](#-office-)
+        - [⚙️ ORM ](#orm)
