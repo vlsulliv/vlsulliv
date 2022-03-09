@@ -1,4 +1,6 @@
-# Hi, i'm Vince!👋 <br />
+# Hi!👋 <br />
+
+Welcome to my workspace 👨‍💻, this is where I  build, ship, maintain, and break open-source stuff for the web.
 
 <div align="center">
 <p align="center">
@@ -19,7 +21,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=18&duration=6500&center=true&lines=Plan+1st%2C+Collaborate+2nd%2C+Code+3rd"></a>
 </p>
                                                                                    
-Welcome to my workspace 👨‍💻, this is where I  build, ship, maintain, and break open-source stuff for the web.
 I'm always working to become a better web developer, reach out if you have any advice!
 
 - 🔭 I’m currently working creating version of my profile.
@@ -60,7 +61,7 @@ I'm always working to become a better web developer, reach out if you have any a
 </p> -->
 
  <p align="center">
-  🔗<i> &nbsp;**Let's connect!!**</i>
+  🔗<i> &nbsp;Let's connect!!</i>
   
 <p align="center">
 <!-- <a href="https://dev.to/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="gautamkrishnar" height="30" width="40" /></a> -->
