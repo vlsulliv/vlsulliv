@@ -1,4 +1,4 @@
-# **Hi, i'm Vince! **👋 <br />
+# Hi, i'm Vince!👋 <br />
 
 <div align="center">
 <p align="center">
@@ -19,7 +19,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=18&duration=6500&center=true&lines=Plan+1st%2C+Collaborate+2nd%2C+Code+3rd"></a>
 </p>
                                                                                    
-Welcome to my workspace, this is where I  build, ship, maintain, and break open-source stuff for the web.
+Welcome to my workspace 👨‍💻, this is where I  build, ship, maintain, and break open-source stuff for the web.
 I'm always working to become a better web developer, reach out if you have any advice!
 
 - 🔭 I’m currently working creating version of my profile.
