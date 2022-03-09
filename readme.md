@@ -67,9 +67,13 @@ I'm always working to become a better web developer, reach out if you have any a
 <a href="https://YouTube.com/USER"><img src="https://img.shields.io/badge/-YouTube-red?&style=for-the-badge&logo=youtube&logoColor=white" height=25></a>
 </p> -->
 
+<hr>
 <p align="center">
     <a href="https://twitter.com/v87" alt="Twitter"><img src="https://raw.githubusercontent.com/vlsulliv/vlsulliv/3f5402efef9a0ae89211a6e04609558e862ca616/readme/twitter-fill.svg"></a>
     <a href="https://www.linkedin.com/in/vlsullivan/" alt="Linkedin"><img src="https://raw.githubusercontent.com/vlsulliv/vlsulliv/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a>
     <a href="mailto:vlsullivanhou@gmail.com" alt="Contact me"><img src="https://raw.githubusercontent.com/vlsulliv/vlsulliv/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"></a>
     <a href="https://examlpe.com" alt="My site"><img src="https://raw.githubusercontent.com/vlsulliv/vlsulliv/3f5402efef9a0ae89211a6e04609558e862ca616/readme/external-link-line.svg"></a>
   </p>
+</p>
+  
+  <img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/dcd7447c179f5a1131590b6ccba2223e879ab655/readme/bottom.svg" alt="bottom">
