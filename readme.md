@@ -1,4 +1,4 @@
-# **HI THERE!** WELCOME TO MY GITHUB PROFILE👋
+# **Hi there!** Welcome to my profile👋
 <div align="center">
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Vincent%20Sullivan&fontSize=90&animation=fadeIn&fontAlignY=28&desc=@vlsulliv%20on%20GitHub%20&descAlignY=46&descAlign=77"> 
@@ -27,14 +27,15 @@
 
                                                                                    
 
-Here are some ideas to get you started:
+I'm always working to become a better web developer. Reach out with any advice or feedback. 
 
-- 🔭 I’m currently working on an app that organizes a media collection.
-- 🌱 I’m currently learning .NET
+- 🔭 I’m currently working creating version of my profile.
+- 🌱 I’m currently learning Gulp.
 - 👯 I’m looking to collaborate on anything!
 - 🤔 I’m looking for help with career direction in tech.
-- 💬 Ask me about netflix!
+- 💬 Ask me about Web development/Netflix/Music/Fitness.
 - 📫 How to reach me: vlsulliv@yahoo.com - let's create something!
+- ⚡ Fun fact: I hit 12G durin my F18✈️ ride.
 ---
 
 
@@ -64,9 +65,3 @@ Here are some ideas to get you started:
 <a href="https://dev.to/USER"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a>
 <a href="https://YouTube.com/USER"><img src="https://img.shields.io/badge/-YouTube-red?&style=for-the-badge&logo=youtube&logoColor=white" height=25></a>
 </p> -->
-
-
-
-<img src="https://img.shields.io/badge/dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white" /> 
-👩‍💻
-🎶
