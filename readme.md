@@ -27,7 +27,7 @@
 
                                                                                    
 
-I'm always working to become a better web developer. Reach out with any advice or feedback. 
+I'm always working to become a better web developer, reach out if you have any advice!
 
 - 🔭 I’m currently working creating version of my profile.
 - 🌱 I’m currently learning Gulp.
