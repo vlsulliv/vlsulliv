@@ -1,5 +1,5 @@
 # **Hi, i'm Vince! **👋 <br />
-This is where I build, ship, maintain, and break opensource stuff 💻
+
 <div align="center">
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Vincent%20Sullivan&fontSize=90&animation=fadeIn&fontAlignY=28&desc=@vlsulliv%20on%20GitHub%20&descAlignY=46&descAlign=77"> 
@@ -27,7 +27,7 @@ This is where I build, ship, maintain, and break opensource stuff 💻
 </p>
 
                                                                                    
-Welcome to my workspace, I build ship and maintain open-source software.
+Welcome to my workspace, this is where I  build, ship, maintain, and break open-source stuff for the web.
 I'm always working to become a better web developer, reach out if you have any advice!
 
 - 🔭 I’m currently working creating version of my profile.
@@ -76,4 +76,4 @@ I'm always working to become a better web developer, reach out if you have any a
   </p>
 </p>
   
-  <img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/dcd7447c179f5a1131590b6ccba2223e879ab655/readme/bottom.svg" alt="bottom">
+  <img src="https://raw.githubusercontent.com/vlsulliv/vlsulliv/dcd7447c179f5a1131590b6ccba2223e879ab655/readme/bottom.svg" alt="bottom">
