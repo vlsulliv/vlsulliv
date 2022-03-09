@@ -61,7 +61,7 @@ I'm always working to become a better web developer, reach out if you have any a
 </p> -->
 
  <p align="center">
-  🔗<i> &nbsp;Let's connect!!</i>
+  🔗<i> Let's connect!!</i>
   
 <p align="center">
 <!-- <a href="https://dev.to/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="gautamkrishnar" height="30" width="40" /></a> -->
