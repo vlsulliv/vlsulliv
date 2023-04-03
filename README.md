@@ -28,7 +28,7 @@ I'm always working to become a better web developer, reach out if you have any a
 - 👯 I’m looking to collaborate on anything!
 - 🤔 I’m looking for help with career direction in tech.
 - 💬 Ask me about Web development/Netflix/Music/Fitness.
-- 📫 How to reach me: vlsulliv@yahoo.com - let's create something!
+- 📫 How to reach me: vslliv@yahoo.com - let's create something!
 - ⚡ Fun fact: I hit 12G durin my F18✈️ ride.
 ---
 
